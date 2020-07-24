@@ -1,6 +1,7 @@
 import * as React from 'react'
-import { useRoutes, BrowserRouter, NavLink } from 'react-router-dom'
-import { routeEntries, routes } from 'config/routes'
+import { useRoutes, BrowserRouter } from 'react-router-dom'
+import { routeEntries } from 'config/routes'
+import { Nav } from 'components/Nav'
 
 const App = () => {
   return (
@@ -24,22 +25,4 @@ const Routes = () => {
     }))
   )
   return renderRoutes
-}
-
-const Nav = () => {
-  return (
-    <nav>
-      <ul style={{ listStyle: 'none' }}>
-        <li>
-          <NavLink to={routes.home.path}>Home</NavLink>
-        </li>
-        <li>
-          <NavLink to={routes.about.path}>About</NavLink>
-        </li>
-        <li>
-          <NavLink to={routes.contact.path}>Contact</NavLink>
-        </li>
-      </ul>
-    </nav>
-  )
 }
