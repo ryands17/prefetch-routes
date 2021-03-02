@@ -17,7 +17,7 @@
     "react-router-dom": "^6.0.0-beta.0",
     "react-scripts": "3.4.3",
     "route-manifest": "^1.0.0",
-    "typescript": "~4.1.2"
+    "typescript": "~4.2.2"
   },
   "scripts": {
     "dev": "craco start",
