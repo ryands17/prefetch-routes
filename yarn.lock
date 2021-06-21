@@ -10858,9 +10858,9 @@ webpack-merge@^4.2.2:
     lodash "^4.17.15"
 
 webpack-route-manifest@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/webpack-route-manifest/-/webpack-route-manifest-1.2.0.tgz#ade58d48594f067a6f82aa9a5d639007e75d6ae1"
-  integrity sha512-JzWnMEzrioenlM38p7OuOWIr1xjQQpeAI/ktb0ZNYv/s5507JHmkYS6YzZsOpYhqqanN/keGAYD/JT/zLMs+LA==
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/webpack-route-manifest/-/webpack-route-manifest-1.3.0.tgz#8c1f89e6a6a7795d0004857b4876bfa413c6d9cf"
+  integrity sha512-h070X/9WkPZWI9RZW+qgAuTN4frfN+c+CxF9smn+nMXNE1Q94VPjHMLnTTlv/dbKC1Hj7DwNto27v5Kdwy7uxA==
   dependencies:
     route-sort "^1.0.0"
 
