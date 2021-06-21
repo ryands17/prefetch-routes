@@ -8761,9 +8761,9 @@ querystringify@^2.1.1:
   integrity sha512-FIqgj2EUvTa7R50u0rGsyTftzjYmv/a3hO345bZNrqabNqjtgiDMgmo4mkUjd+nzU5oF3dClKqFIPUKybUyqoQ==
 
 quicklink@^2.0.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/quicklink/-/quicklink-2.1.0.tgz#86f009b5d611db2afb798490078aa75ae9c0f464"
-  integrity sha512-1K4ekaequXoC1m+gbYiEZNL+nMRfZBSNF/lxqsZSgZuAMekZXN1Or5s8d+XtpY9SurnuateLv1VPZviZg5MeDw==
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/quicklink/-/quicklink-2.2.0.tgz#011f47d4e5f67622d9d49f02c74c913852b01f8b"
+  integrity sha512-tfleXCZvxDppyZFqSDsbkS5aKemtA0ealvguxjp3tzXHMo+pzxrWtOh+6dnYK/mXzEYM1QiNhGttcS/W/T3JXA==
   dependencies:
     route-manifest "^1.0.0"
     throttles "^1.0.0"
